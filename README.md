@@ -2,6 +2,7 @@
 
 The Shopping List App is a user-friendly mobile application designed to streamline your shopping experience. Built with Kotlin and Jetpack Compose, it allows users to effortlessly manage their shopping lists directly from their Android devices. 
 
+https://github.com/Nandu-2003/MyShoppingList_App/assets/124422075/e6f1644a-2c89-4f35-bcf3-f42e9c23fb4b
 
 
 Submit bug reports and feature suggestions, or track changes in the [issue queue](https://github.com/nandini-2003/MyShoppingList_App/issues).
